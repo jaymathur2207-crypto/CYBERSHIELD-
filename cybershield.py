@@ -1,19 +1,3 @@
-"""
-CYBERSHIELD - Interactive Cyber Security Awareness and Simulation System
-Class XII - Informatics Practices
-
-Educational, offline-only simulations:
-- Password strength checker (passwords are never saved)
-- Phishing message analyser (does not open or visit links)
-- Caesar cipher encryption/decryption demonstration (not real-world security)
-- Firewall rule simulator (sample traffic only; does not change system settings)
-- Cybersecurity awareness notes
-- Cyber safety quiz
-- SQLite activity dashboard
-
-Run: python cybershield.py
-Optional charts: pip install matplotlib
-
 
 import re
 import sqlite3
