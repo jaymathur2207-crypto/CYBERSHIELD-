@@ -13,7 +13,7 @@ Educational, offline-only simulations:
 
 Run: python cybershield.py
 Optional charts: pip install matplotlib
-"""
+
 
 import re
 import sqlite3
